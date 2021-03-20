@@ -1,0 +1,1 @@
+AllDellvery.py에서 실행시켜주시면 됩니다.
